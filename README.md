@@ -22,3 +22,6 @@ or three backticks for a block of code
 20 REM 
 30 GOTO 10
 ```
+
+Compile the code using MPLAB-X and XC8 with no optimisations
+
