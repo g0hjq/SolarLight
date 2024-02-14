@@ -99,7 +99,9 @@ Link to the [BBC News Website](http://www.bbc.co.uk/news)
     
 See this Footnote[^1]
 
-
+### Alerts
+> [!WARNING]
+> Urgent info that needs immediate user attention to avoid problems.
 
 [^1]: this is a footnote
 
