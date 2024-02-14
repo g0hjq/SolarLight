@@ -1,2 +1,2 @@
 # SolarLight
-  Solar Powered Garden Light with LiFoPO4 cell
+  Solar Powered Garden Light with LiFePO4 cell
